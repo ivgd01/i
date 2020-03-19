@@ -1,0 +1,19 @@
+{
+    "Version":"20200307",
+    "IsForce":true,
+	"windows":
+	{
+		"Name":"a.exe",
+    		"HashValue":"N/A"
+	},
+	"linux":
+	{
+		"Name":"a_linux",
+    		"HashValue":"b6a51f92cdd0e06be38e160a3f59eeb2"
+	},
+	"mac":
+	{
+		"Name":"a_mac",
+    		"HashValue":"N/A"
+	}	
+}
