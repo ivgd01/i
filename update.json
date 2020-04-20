@@ -1,5 +1,5 @@
 {
-    "Version":"20200307",
+    "Version":"20200420",
     "IsForce":true,
 	"windows":
 	{
@@ -9,7 +9,7 @@
 	"linux":
 	{
 		"Name":"a_linux",
-    		"HashValue":"b6a51f92cdd0e06be38e160a3f59eeb2"
+    		"HashValue":"850b0c08bf7d49ba4a780eaf86217d32"
 	},
 	"mac":
 	{
